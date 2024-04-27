@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋🏻 Hey there! I'm Kathy!
+I'm a driven software engineer with a passion for technology and developing software solutions.
 <!--
 **Kathydc2/Kathydc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
